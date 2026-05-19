@@ -22,7 +22,7 @@ timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
 OUTPUT_DIR = Path(f"outputs_strategy1_rf_{timestamp}")
 OUTPUT_DIR.mkdir(exist_ok=True)
 
-# =========================================================
+
 # 2. CHARGEMENT DES DONNÉES
 # =========================================================
 

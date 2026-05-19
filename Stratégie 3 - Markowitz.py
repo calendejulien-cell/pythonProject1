@@ -5,7 +5,7 @@ from pathlib import Path
 from datetime import datetime
 from scipy.optimize import minimize
 
-# =========================================================
+
 # 1. PARAMÈTRES
 # =========================================================
 

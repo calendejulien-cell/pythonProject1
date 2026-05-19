@@ -5,7 +5,7 @@ import matplotlib.dates as mdates
 from pathlib import Path
 from datetime import datetime
 
-# =========================================================
+
 # 1. PARAMÈTRES
 # =========================================================
 
